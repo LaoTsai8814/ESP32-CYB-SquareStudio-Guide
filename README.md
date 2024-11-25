@@ -1,3 +1,5 @@
+This project is created by squareline studio
+
 1.create a DIS08070H(DIS07050H) project
 
 2.on the bar on the top you will see "Export" and click on it
